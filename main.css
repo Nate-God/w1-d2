@@ -24,7 +24,12 @@ body {
 }
 
 .navbar > a:hover {
-    text-size: 20%;
+    font-size: 120%;
+}
+
+.navbar > a:active {
+    font-size: 120%;
+    color: black
 }
 
 
