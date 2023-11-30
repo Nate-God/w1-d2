@@ -1,0 +1,76 @@
+h1{
+    margin-top: 5px;
+}
+
+.Sign-in{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    border: 2px;
+    border-style: solid;
+    margin: auto 25vw;
+    padding-left: 20px;
+}
+input{
+    width: 95%;
+    padding: 3px;
+}
+button{
+    margin-top: 20px;
+    width:96.9%;
+    background-color: rgb(253, 186, 63);
+    border: 1px solid black;
+    border-radius: 2px;
+}
+#create-account{
+    width: auto;
+}
+
+#img{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 7px;
+}
+
+#line{
+    padding-bottom: 5vh;
+    border-bottom: 2px solid #aaa;
+}
+#nav{
+    margin: 2.5vh 20vw;
+    display:flex;
+    justify-content: space-evenly;
+}
+#copyrights{
+    /* display:flex;
+    justify-content: center; */
+    text-align: center;
+}
+
+.Sign-up{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: auto 26.5vw;
+    text-align: center;
+}
+
+
+.password{
+    display: flex;
+    justify-content: space-between;
+    margin: auto 5% auto 11%;
+}
+
+
+
+#fancy {
+    margin-top: 10px;
+    border-top: 1px solid #aaa;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    display: block;
+    text-align: center;
+}
